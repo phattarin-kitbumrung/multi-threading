@@ -1,0 +1,11 @@
+{
+  "name": "multi-threading",
+  "version": "1.0.0",
+  "description": "multi-threading in nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "minizymint",
+  "license": "ISC"
+}
